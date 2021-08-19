@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mariano sepulveda",
+      "email": "josueBejarano@hermida.com",
+      "telefono": "2889999",
+      "empresa": "Asociados Manriquez",
+      "id": 1
+    },
+    {
+      "nombre": "Andres Molina Barriento",
+      "email": "andresMOLina@gmail.com",
+      "telefono": "6545676543",
+      "empresa": "inc. ZD",
+      "id": 2
+  
+    }
+  ]
+}
